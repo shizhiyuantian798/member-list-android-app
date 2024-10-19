@@ -3,6 +3,7 @@
     <string name="age">年齢</string>
     <string name="age_format">%d歳</string>
     <string name="app_name">Member List</string>
+    <string name="close">閉じる</string>
     <string name="delete">削除</string>
     <string name="error_invalid_age">0から150の有効な年齢を入力してください</string>
     <string name="error_invalid_url">有効なURLを入力してください</string>
